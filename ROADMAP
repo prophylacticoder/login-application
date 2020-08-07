@@ -1,0 +1,7 @@
+1) Set up the virtual environment and create the basic html structure; 07/08;
+2) Installing flask and set up the basic server; 07/08
+
+
+Final project: An application able to register users and storing them in a
+database and be able to go into a login process with maintaining the user
+logged.
